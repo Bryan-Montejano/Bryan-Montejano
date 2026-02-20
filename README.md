@@ -1,24 +1,57 @@
-# 👋 About Me
+<!-- =======================
+     README.md (GitHub)
+     Username: Bryan-Montejano
+     ======================= -->
 
-Pharmacist and MSc. student in Biochemistry
+# Hi, I'm Bryan Montejano
 
-## 🔬 Research
+**Fraud Analytics / AML Engineer** · **End-to-End Data Pipelines** · **Apache Spark** · **Neo4j / Graph Analytics**
 
-### Proteomics and Cerebral Ischemia
+I build production-grade analytics workflows for fraud & financial crime: from raw data → features → graph signals → monitoring.
 
-- Analyzing metabolic changes in an astrocytes during ischemia
+---
 
-## 📊 Data Science Enthusiast
+## About
 
-## 🛠️ Tools
+- **Fraud Analytics / AML**: detection signals, risk scoring, and investigation-friendly outputs.
+- **End-to-end pipelines**: ingestion, transformation, feature engineering, validation, and delivery (batch-oriented, scalable).
+- **Graph thinking**: relationship modeling and graph-driven signals with **Neo4j**.
 
-- Python
-- R
-- SQL
-- PowerBI
-- Git
-- Stata
+---
 
-## 🎶 Music Production Enthusiast
-I use Live 11 for producing, mixing and mastering.
+## What I do
 
+- Design and implement **Spark pipelines** (PySpark / Spark SQL), with partition strategies and performance tuning.
+- Build **entity linking** and network features (communities, centrality, proximity signals) using **Neo4j**.
+- Add **data quality** checks and monitoring patterns to keep pipelines reliable over time.
+
+---
+
+## Technical Skills
+
+**Languages**
+- Python · SQL
+
+**Big Data / Processing**
+- Apache Spark (PySpark, Spark SQL)
+
+**Graph / Databases**
+- Neo4j (graph modeling, queries, analytics-oriented patterns)  
+- PostgreSQL
+
+**Engineering**
+- Git · Linux
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan-Montejano&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Montejano&layout=compact)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmontejano/)
+[![Email](https://img.shields.io/badge/Email-111?logo=gmail&logoColor=white)](mailto:bryan.a.montejano@gmail.com)
