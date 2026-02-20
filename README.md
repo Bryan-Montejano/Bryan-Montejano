@@ -44,13 +44,6 @@ I build production-grade analytics workflows for fraud & financial crime: from r
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan-Montejano&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Montejano&layout=compact)
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmontejano/)
