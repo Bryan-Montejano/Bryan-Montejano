@@ -5,7 +5,7 @@
 
 # Hi, I'm Bryan Montejano
 
-**Fraud Analytics / AML Engineer** · **End-to-End Data Pipelines** · **Apache Spark** · **Neo4j / Graph Analytics**
+**Fraud Analytics / Data Scientist** · **End-to-End Data Pipelines** · **Apache Spark** · **Neo4j / Graph Analytics**
 
 I build production-grade analytics workflows for fraud & financial crime: from raw data → features → graph signals → monitoring.
 
